@@ -1,0 +1,1 @@
+Code for this seminar is available at [Google Colab](https://colab.research.google.com/drive/1iQbAurSuSnQSqwA-VXb_dC0cr3jF8U1v?usp=sharing). If you want to make your own experiments on top of this, please log in with your Google account and make a copy of the notebook to your Google Drive.
